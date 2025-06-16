@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Dishan
 
-<!--
-**DozKooki/DozKooki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+- 🎓 Learning Programming
+- 🎨 Beginner Graphic Designer
+- 🌐 Intermediate Web Developer
+- 🚧 Currently building my first projects — stay tuned!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Tools**: VS Code, Git & GitHub, Canva, Figma, TailwindCSS
+
+---
+
+## 📌 Projects
+
+> I’m currently working on my first web apps and portfolio — projects will be added soon!
+
+---
+
+## 🌐 Connect with Me
+
+> Coming soon — Instagram, Discord, and more...
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+</p>
