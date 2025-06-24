@@ -30,7 +30,7 @@
 
 ### 📌 Projects
 
-> 🚧 I'm currently working on my first few projects — will be added here soon!
+Check Out My Repos!
 
 ---
 
@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dozkooki&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dozkooki&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
