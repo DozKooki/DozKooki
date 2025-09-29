@@ -5,7 +5,7 @@
 </p>
 
 ---
-![Profile View Counter](https://komarev.com/ghpvc/?username=programmingxpert&style=flat-square)
+![Profile View Counter](https://komarev.com/ghpvc/?username=DozKooki&style=flat-square)
 
 ### 🧠 About Me
 
