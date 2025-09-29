@@ -5,6 +5,7 @@
 </p>
 
 ---
+![Profile View Counter](https://komarev.com/ghpvc/?username=programmingxpert&style=flat-square)
 
 ### 🧠 About Me
 
