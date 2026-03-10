@@ -1,3 +1,5 @@
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&vCenter=true&multiline=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Dozkooki.;I+Create+Ultimate+Tools.+" alt="Typing SVG" /></h1>
+
 # 💫 About Me:
 💻 Tool Builder – I love creating useful and creative tools with code.<br>🤖 AI & ML Enthusiast – Deeply focused on learning and exploring Artificial Intelligence and Machine Learning.<br>⚙️ Automation Lover – I enjoy automating tasks and making systems work smarter.<br>📚 Always Learning – Still learning new things every day and constantly improving my skills.<br>📈 Obsessed With Progress – Focused on growth, discipline, and becoming better each day.<br>🔍 Curious Mind – Always exploring new technologies and ideas.<br>🛠️ Building the Future – Working on projects that push my skills forward.
 
